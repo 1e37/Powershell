@@ -1,2 +1,2 @@
 # Powershell
-Powershell collectiojn
+Powershell collection
